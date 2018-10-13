@@ -1,2 +1,2 @@
 # data
-This folder contains Ethics Information relevant to the study on non-significant p-values.
+This folder contains the information relevant to the study on non-significant p-values by Zarina I. Vakhitova and Clair. L. Alston-Knox.
